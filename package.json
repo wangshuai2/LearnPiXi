@@ -16,6 +16,6 @@
     "webpack-dev-server": "^2.10.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "webpack-dev-server --open --host 10.0.0.6"
   }
 }
